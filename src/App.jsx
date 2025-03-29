@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "/Users/rithwikkuchana/Documents/SimonSays/simon-says/src/App.css";
+import "./src/App.css";
 
 export default function App() {
   const colors = ["red", "blue", "green", "yellow"];
